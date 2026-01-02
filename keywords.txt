@@ -1,0 +1,5 @@
+Petal           KEYWORD1
+pushPin         KEYWORD2
+readPin         KEYWORD2
+getRGB          KEYWORD2
+setPollInterval KEYWORD2
